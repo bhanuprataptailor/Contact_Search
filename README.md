@@ -1,5 +1,5 @@
 **1. SETUP for Project**
-**Extranct scrapping module**
+**Extract scrapping module**
     
     a. INSTALL HOMEBREW
         $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
